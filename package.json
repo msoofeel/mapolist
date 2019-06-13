@@ -1,0 +1,11 @@
+{
+  "name": "mapolist",
+  "version": "1.0.0",
+  "description": "게시판 테스트 제작웹 mysql,nodejs 활용제작",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RichSooo",
+  "license": "ISC"
+}
